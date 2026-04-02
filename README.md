@@ -3,7 +3,9 @@
 A simple tool written in bash made to monitor processes and display information about them
 
 # SETUP
-Give permissions to the script  
+
+Give execution permissions to the script  
+
 `chmod +x ./process_monitor.sh`
 
 # FEATURES

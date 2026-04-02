@@ -2,12 +2,6 @@
 
 A simple tool written in bash made to monitor processes and display information about them
 
-# SETUP
-
-Give execution permissions to the script  
-
-`chmod +x ./process_monitor.sh`
-
 # FEATURES
 
 * List all running processes in the system
@@ -15,6 +9,12 @@ Give execution permissions to the script
 * Know what user launched any process
 * Check the consumption of CPU and RAM by any process
 * Get the current state of any specified process
+
+# SETUP
+
+Give execution permissions to the script  
+
+`chmod +x ./process_monitor.sh`
 
 # Usage
 

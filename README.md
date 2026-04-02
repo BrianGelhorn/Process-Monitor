@@ -2,7 +2,7 @@
 
 A simple tool written in bash made to monitor processes and display information about them
 
-# FEATURES
+# Features
 
 * List all running processes in the system
 * Get the PID of the processes
@@ -10,7 +10,7 @@ A simple tool written in bash made to monitor processes and display information 
 * Check the consumption of CPU and RAM by any process
 * Get the current state of any specified process
 
-# SETUP
+# Setup
 
 Give execution permissions to the script  
 
